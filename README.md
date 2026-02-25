@@ -25,5 +25,9 @@ Ingeniero en TIC y Tecnólogo en Redes. No solo escribo código; **construyo pro
 | **Arquitectura** | Clean Architecture, Auth & Security, Performance Optimization |
 | **Infraestructura** | Redes y Telecomunicaciones, Admin. de Sistemas |
 
+## 📈 Estadísticas de GitHub
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=DanGustavo1234&show_icons=true&theme=radical"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanGustavo1234&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Stats de Daniel" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanGustavo1234&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes de Daniel" height="150" />
+</p>
