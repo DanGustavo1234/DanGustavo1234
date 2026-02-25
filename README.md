@@ -26,3 +26,13 @@ Ingeniero en TIC y Tecnólogo en Redes. No solo escribo código; **construyo pro
 | **Infraestructura** | Redes y Telecomunicaciones, Admin. de Sistemas |
 
 
+## Current Focus
+
+- Building a production mobile app for a gastronomy startup using Flutter
+- Implementing authentication, token handling, and scalable architecture
+- Preparing apps for production environments
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/daniel-gustavo-cordova-jaramillo-80898220a
+- Email: daniel.cordova@meniuz.com
