@@ -1,4 +1,4 @@
-# Hola, soy Daniel 👋 
+# Hi, I'm Daniel 👋
 
 ### Flutter Developer | Mobile Engineer | Building production-ready apps | Clean Architecture
 
@@ -6,33 +6,46 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-Ingeniero en TIC y Tecnólogo en Redes. No solo escribo código; **construyo productos**. Mi enfoque está en la intersección entre el rendimiento técnico y la experiencia de usuario, transformando ideas en soluciones escalables y seguras.
+IT Engineer and Network Technologist. I don't just write code — **I build products**. My focus is at the intersection of technical performance and user experience, transforming ideas into scalable and secure solutions.
 
-* 🚀 **Enfoque actual:** Flutter, Arquitectura de Software e IA.
-* 🧠 **Mentalidad:** Resolución de problemas reales con ejecución disciplinada.
-* 🌎 **Objetivo:** Escalar soluciones tecnológicas de impacto global.
+* 🚀 **Current focus:** Flutter, Software Architecture, and AI integration  
+* 🧠 **Mindset:** Solving real-world problems through disciplined execution  
+* 🌎 **Goal:** Build and scale technology solutions with global impact  
 
 ---
 
 ## 🛠 Tech Stack
 
-| Categoría | Tecnologías |
+| Category | Technologies |
 | :--- | :--- |
 | **Frontend & Mobile** | Flutter, React, Vue.js, Angular, Astro |
-| **Backend & AI** | Python, REST APIs, AI Service Integration |
-| **Arquitectura** | Clean Architecture, Auth & Security, Performance Optimization |
-| **Infraestructura** | Redes y Telecomunicaciones, Admin. de Sistemas |
+| **Backend & AI** | Python, REST APIs, AI service integration |
+| **Architecture** | Clean Architecture, Authentication & Security, Performance Optimization |
+| **Infrastructure** | Networking, Telecommunications, System Administration |
 
+---
 
-## Current Focus
+## 🎯 Current Focus
 
-- Building a production mobile app for a gastronomy startup using Flutter
-- Implementing authentication, token handling, and scalable architecture
-- Preparing apps for production environments
+- Building a production-ready mobile app for a gastronomy startup using Flutter  
+- Implementing authentication flows, token handling, and secure session management  
+- Designing scalable and maintainable mobile architectures  
+- Preparing applications for production and real-world usage  
 
-## Contact
+---
 
-- LinkedIn: www.linkedin.com/in/daniel-gustavo-cordova-jaramillo-80898220a
-- Email: daniel.cordova@meniuz.com
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/daniel-gustavo-cordova-jaramillo-80898220a  
+- Email: daniel.cordova@meniuz.com  
+
+---
+
+## ⚡ What I care about
+
+- Writing clean, maintainable, and scalable code  
+- Building real-world production applications  
+- Continuous learning and technical growth  
+- Creating technology that solves meaningful problems  
