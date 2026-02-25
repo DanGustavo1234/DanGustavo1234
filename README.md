@@ -25,15 +25,4 @@ Ingeniero en TIC y Tecnólogo en Redes. No solo escribo código; **construyo pro
 | **Arquitectura** | Clean Architecture, Auth & Security, Performance Optimization |
 | **Infraestructura** | Redes y Telecomunicaciones, Admin. de Sistemas |
 
----
 
-
-
----
-
-## 📫 Conectemos
-
-<p align="left">
-<a href="https://linkedin.com/in/TU_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:TU_EMAIL" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
