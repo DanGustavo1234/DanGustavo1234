@@ -1,6 +1,6 @@
 # Hola, soy Daniel 👋 
 
-### Software Engineer | Product Mindset | AI & Mobile Specialist
+### Flutter Developer | Mobile Engineer | Building production-ready apps | Clean Architecture
 
 <img width="auto" height="auto" alt="Daniel" src="https://github.com/user-attachments/assets/d0cffca7-3d15-4281-8c75-99fa3490d69b" />
 
