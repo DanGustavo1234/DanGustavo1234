@@ -24,7 +24,5 @@ Fuera del mundo tech:
 
 🧠 Disfruto resolver problemas aplicando la tecnología, buscando siempre soluciones prácticas e innovadoras.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanGustavo1234&theme=dark)](https://git.io/streak-stats)
 
-![DanGustavo1234's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanGustavo1234&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
