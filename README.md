@@ -27,20 +27,7 @@ Ingeniero en TIC y Tecnólogo en Redes. No solo escribo código; **construyo pro
 
 ---
 
-## 🚀 Proyectos y Enfoque
 
-- **Mobile First:** Especialista en Flutter para aplicaciones multiplataforma de alto rendimiento.
-- **AI-Driven:** Integración de Inteligencia Artificial para potenciar productos digitales.
-- **Product Engineering:** Diseño de sistemas robustos pensando en el crecimiento del negocio.
-
----
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Stats de Daniel" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes de Daniel" height="150" />
-</p>
 
 ---
 
