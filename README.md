@@ -28,6 +28,9 @@ Ingeniero en TIC y Tecnólogo en Redes. No solo escribo código; **construyo pro
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=DanGustavo1234&show_icons=true&theme=default&hide_border=true" alt="Stats de Daniel" height="150" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=DanGustavo1234&layout=compact&theme=default&hide_border=true" alt="Lenguajes de Daniel" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=DanGustavo1234&show_icons=true&theme=default&hide_border=true" alt="Stats de Daniel" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=DanGustavo1234&layout=compact&theme=default&hide_border=true" alt="Lenguajes de Daniel" height="170" />
 </p>
