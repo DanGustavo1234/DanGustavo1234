@@ -1,79 +1,52 @@
-Hoola a todos le saluda Daniel👋
+# Hola, soy Daniel 👋 
 
-<img width="800" height="300" alt="Daniel" src="https://github.com/user-attachments/assets/d0cffca7-3d15-4281-8c75-99fa3490d69b" />
+### Software Engineer | Product Mindset | AI & Mobile Specialist
 
-Soy Ingeniero en Tecnologías de la Información y la Comunicación y Tecnólogo en Redes y Telecomunicaciones, enfocado en construir productos tecnológicos reales con impacto. Me especializo en el desarrollo de aplicaciones modernas, escalables y orientadas a producto.
+<img width="100%" height="auto" alt="Daniel" src="https://github.com/user-attachments/assets/d0cffca7-3d15-4281-8c75-99fa3490d69b" />
 
-Actualmente trabajo en el desarrollo de aplicaciones móviles, arquitectura de software y soluciones impulsadas por inteligencia artificial, con un enfoque fuerte en rendimiento, seguridad y experiencia de usuario.
+---
 
-⚙️ Stack Tecnológico
+## 👨‍💻 Sobre mí
 
-Frontend & Mobile
+Ingeniero en TIC y Tecnólogo en Redes. No solo escribo código; **construyo productos**. Mi enfoque está en la intersección entre el rendimiento técnico y la experiencia de usuario, transformando ideas en soluciones escalables y seguras.
 
-Flutter (actual foco principal)
+* 🚀 **Enfoque actual:** Flutter, Arquitectura de Software e IA.
+* 🧠 **Mentalidad:** Resolución de problemas reales con ejecución disciplinada.
+* 🌎 **Objetivo:** Escalar soluciones tecnológicas de impacto global.
 
-React, Vue.js, Angular, Astro
+---
 
-HTML, CSS, JavaScript
+## 🛠 Tech Stack
 
-Backend & AI
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Frontend & Mobile** | Flutter, React, Vue.js, Angular, Astro |
+| **Backend & AI** | Python, REST APIs, AI Service Integration |
+| **Arquitectura** | Clean Architecture, Auth & Security, Performance Optimization |
+| **Infraestructura** | Redes y Telecomunicaciones, Admin. de Sistemas |
 
-Python
+---
 
-APIs REST
+## 🚀 Proyectos y Enfoque
 
-Integración de servicios backend
+- **Mobile First:** Especialista en Flutter para aplicaciones multiplataforma de alto rendimiento.
+- **AI-Driven:** Integración de Inteligencia Artificial para potenciar productos digitales.
+- **Product Engineering:** Diseño de sistemas robustos pensando en el crecimiento del negocio.
 
-Aplicaciones impulsadas por inteligencia artificial
+---
 
-Arquitectura & Sistemas
+## 📈 Estadísticas de GitHub
 
-Diseño de arquitectura de software
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Stats de Daniel" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes de Daniel" height="150" />
+</p>
 
-Manejo de autenticación y seguridad
+---
 
-Integración full-stack
+## 📫 Conectemos
 
-Optimización de rendimiento
-
-Infraestructura & Redes
-
-Administración de redes
-
-Sistemas de telecomunicaciones
-
-Integración hardware-software
-
-Arquitectura de sistemas
-
-🚀 Enfoque Actual
-
-Construcción de aplicaciones móviles con Flutter
-
-Desarrollo de productos para startups
-
-Integración de inteligencia artificial en aplicaciones reales
-
-Creación de soluciones escalables y mantenibles
-
-Arquitectura limpia y buenas prácticas
-
-🧠 Mentalidad
-
-Pienso como ingeniero de producto, no solo como programador.
-
-Me enfoco en:
-
-Resolver problemas reales
-
-Construir soluciones útiles
-
-Aprender constantemente
-
-Crear sistemas robustos y escalables
-
-Ejecutar con disciplina y consistencia
-
-🌎 Objetivo
-
-Convertirme en un ingeniero de software de alto nivel, construyendo productos tecnológicos globales, startups y soluciones que generen impacto real.
+<p align="left">
+<a href="https://linkedin.com/in/TU_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:TU_EMAIL" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
