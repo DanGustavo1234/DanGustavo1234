@@ -27,10 +27,16 @@ Ingeniero en TIC y Tecnólogo en Redes. No solo escribo código; **construyo pro
 
 ## 📈 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=DanGustavo1234&show_icons=true&theme=default&hide_border=true" alt="Stats de Daniel" height="170" />
+## 📊 Mi Actividad en Software
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/IA%20Implementation-black?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=DanGustavo1234&layout=compact&theme=default&hide_border=true" alt="Lenguajes de Daniel" height="170" />
-</p>
+| Métrica | Valor |
+| :--- | :--- |
+| **Rol** | Software Engineer |
+| **Especialidad** | Mobile & Product Design |
+| **Estado** | Disponible para proyectos de impacto |
