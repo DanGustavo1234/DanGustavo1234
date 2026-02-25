@@ -26,4 +26,4 @@ Ingeniero en TIC y Tecnólogo en Redes. No solo escribo código; **construyo pro
 | **Infraestructura** | Redes y Telecomunicaciones, Admin. de Sistemas |
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanGustavo1234&show_icons=true&theme=radical)
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=DanGustavo1234&show_icons=true&theme=radical"/>
